@@ -1,8 +1,8 @@
 # Tennis-Game-Kata
 
-SPRINT1 : manage a tennis GAME within a set of a tennis match
+## SPRINT1 : manage a tennis GAME within a set of a tennis match
 
-User Story 1 :
+### User Story 1 :
 As a tennis referee
 I want to manage the score of a game of a set of a tennis match between 2 players with simple Game rules
 In order to display the current Game score of each player
@@ -12,7 +12,7 @@ Rules details:
 ·         Each time a player win a point, the Game score changes as follow:
           0 -> 15 -> 30 -> 40-> Win game
 
-User Story 2 :
+### User Story 2 :
 As a tennis referee
 I want to manage the specific of the rule DEUCE at the end of a Game
 In order to display the current Game score of each player
@@ -24,8 +24,8 @@ Rules details:
 ·         If the player who has the ADVANTAGE looses the point, the score is DEUCE
 
 
-SPRINT2 : manage a Tennis SET within a tennis match
-User Story 1 :
+## SPRINT2 : manage a Tennis SET within a tennis match
+### User Story 1 :
 As a tennis referee
 I want to manage the score of a set of a tennis match between 2 players
 In order to display the current Game (SPRINT 1) & Set score of each player
@@ -37,7 +37,7 @@ Rules details:
 · If a player reach the Set score of 6 and the other player has a Set score of 4 or lower, the player win the Set
 ·         If a player wins a Game and reach the Set score of 6 and the other player has a Set score of 5, a new Game must be played and the first player who reach the score of 7 wins the match
 
-User Story 2 :
+### User Story 2 :
 As a tennis referee
 I want to manage the specific of the rule of Tie-Break at the end of the Set
 In order to display the current Game, Set score & Tie-Break score of each player
